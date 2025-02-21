@@ -1,0 +1,13 @@
+# SVD (singular value decomposition) analysis for data compression Tool
+Copyright © 2025 Ho Chi Minh City University of Technology, HCMUT
+
+Welcome to SVD, a method to compress data
+###  How to use it and every technical skill needed
+
+## Table of Contents
+- [GIT command](#GIT-command)
+- [Overview](#Overview)  
+- [Usage](#usage)  
+- [Contributing](#contributing)  
+
+# SVD-singular-value-decomposition-analysis-for-data-compression-Tool
