@@ -9,7 +9,7 @@ Welcome to SVD, a method to compress data
 - [Usage](#usage)  
 - [Contributing](#contributing)  
 
-#Overview
+## Overview
 
 (Vienamese note taking)
 1/ dùng python để chuyển số liệu thông kê (số liệu đến từ file excel, SQL, hoặc API)
@@ -28,4 +28,21 @@ Note:
 𝑘
 UI: k bằng thanh trượt hoặc ô nhập.
 5. Merge lại các kênh đó lưu lại dưới định dạng ảnh
+
+
+
+
+---
+## CÁC THƯ VIỆN CẦN DOWNLOAD TRƯỚC KHI SỬ DỤNG (For Linux Only)
+
+## 1. libjpeg
+```bash
+sudo apt-get install libjpeg-dev
+```
+## 2. libpng
+```bash
+sudo apt-get install libpng-dev
+
+```
+
 
